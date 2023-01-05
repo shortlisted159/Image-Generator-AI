@@ -30,6 +30,11 @@ https://image-generator-ai.onrender.com
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/64829176/210723763-98e38f20-853d-4c3c-af11-7140cacce701.png)
 
+### Screenshot -3(Penguins stargazing)
+
+![Screenshot (80)](https://user-images.githubusercontent.com/64829176/210728294-206df6a7-b23c-4484-b165-6cb527dbbe8c.png)
+
+
 
 ## Deployment
 

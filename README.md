@@ -20,6 +20,7 @@ AI generated.
 
 ## Demo
 https://image-generator-ai.onrender.com
+#### The API validity is till April 2023. If not changed, the API might fail to work.
 
 ### Screenshot-1
 

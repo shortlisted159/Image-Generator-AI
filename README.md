@@ -16,7 +16,7 @@ AI generated.
 [![dependency - Node.js](https://img.shields.io/badge/openai-%23EA5178?style=for-the-badge&logo=OPENAI-API&logoColor=white)](//beta.openai.com/overview)<br>
 [![styling - CSS](https://img.shields.io/badge/CSS3-%23D8F32E?style=for-the-badge&logo=css3&logoColor=white)](https://web.dev/learn/css/)<br>
 [![language - Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)<br>
-[![dependency - express](https://img.shields.io/static/v1?label=dependency&message=express&color=%232EF34F)](https://expressjs.com/)
+[![dependency - express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 ## Demo
 https://image-generator-ai.onrender.com

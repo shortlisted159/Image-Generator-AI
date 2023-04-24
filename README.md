@@ -13,7 +13,7 @@ AI generated.
 ## Dependencieshttps:
 
 [![API - OPENAI](https://img.shields.io/badge/Node.js-%235174EA?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)<br>
-[![dependency - Node.js](https://img.shields.io/badge/fastapi-%23EA5178?style=for-the-badge&logo=OPENAI-API&logoColor=white)](//beta.openai.com/overview)<br>
+[![dependency - Node.js](https://img.shields.io/badge/openai-%23EA5178?style=for-the-badge&logo=OPENAI-API&logoColor=white)](//beta.openai.com/overview)<br>
 [![styling - CSS](https://img.shields.io/static/v1?label=styling&message=CSS&color=%23D8F32E)](https://web.dev/learn/css/)<br>
 [![language - Javascript](https://img.shields.io/static/v1?label=language&message=Javascript&color=%23F39C2E)](https://www.javascript.com/)<br>
 [![dependency - express](https://img.shields.io/static/v1?label=dependency&message=express&color=%232EF34F)](https://expressjs.com/)
